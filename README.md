@@ -30,4 +30,5 @@ EOF help quit (hbnb) ~/me$ Bugs At this time, there are no known bugs.
 
 License AirBnB Clone is open source and free to download and use
 
-Author @ Nonkululeko Sebiloane @ Lebogang Manamela
+Author @ Nonkululeko Sebiloane @ Lebogang Manamela 
+must complete Airbnb clone v2
